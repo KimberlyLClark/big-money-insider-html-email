@@ -1,4 +1,4 @@
-# Big Money Insider Html Email
+# Big Money Insider HTML Email
 Sample Recreated newsletter HTML Email for an Online Magazine - Responsive
 
 
